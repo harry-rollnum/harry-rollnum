@@ -26,9 +26,9 @@ Hi, I'm **Sai Kumar Garlapati**, a passionate and curious B.Tech Computer Scienc
 ---
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sai-kumar-garlapati&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-kumar-garlapati&layout=compact&theme=radical)
-[![Streak](https://streak-stats.demolab.com?user=sai-kumar-garlapati&theme=radical)](https://git.io/streak-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=harry-rollnum&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harry-rollnum&layout=compact&theme=radical)
+[![Streak](https://streak-stats.demolab.com?user=harry-rollnum&theme=radical)](https:harry-rollnumts)
 
 
 ---
